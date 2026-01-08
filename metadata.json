@@ -1,0 +1,7 @@
+{
+  "name": "AI CareerPath Tracker",
+  "description": "A comprehensive job application tracker with AI-powered resume matching, skill gap analysis, and detailed career analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
